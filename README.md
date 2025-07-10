@@ -27,6 +27,7 @@ This project was created as part of my front-end learning journey.
 - Managing layered UI with `z-index` and sticky headers
 
 ## 🖼️ Screenshot
+![Spotify Homepage Preview](https://github.com/rutupatil27/Spotify-CSS_project/blob/main/Spotify-preview.png?raw=true)
 
 
 ---
